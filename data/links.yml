@@ -17,7 +17,7 @@ tiles:
   tags: ['services']
 -
   name: 'SmokescreenTech'
-  url: 'smokescreen.io'
+  url: 'https://www.smokescreen.io'
   tags: ['product']
 -
   name: 'DNIF'
