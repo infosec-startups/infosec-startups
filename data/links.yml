@@ -47,3 +47,7 @@ tiles:
   name: 'WeSecureApp'
   url: 'https://wesecureapp.com/'
   tags: ['services']
+-
+  name: 'VOLON'
+  url: 'https://volon.io/'
+  tage: ['product', 'services']
