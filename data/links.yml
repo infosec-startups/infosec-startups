@@ -39,3 +39,11 @@ tiles:
   name: 'Cyware'
   url: 'https://cyware.com/'
   tags: ['services']
+-
+  name: 'PureIDLabs'
+  url: 'https://pureid.io'
+  tags: ['product']
+-
+  name: 'WeSecureApp'
+  url: 'https://wesecureapp.com/'
+  tags: ['services']
