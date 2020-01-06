@@ -3,3 +3,7 @@ tiles:
   name: 'SecureLayer7'
   url: 'https://securelayer7.net'
   tags: ['product', 'services']
+-
+  name: 'CloudSEK'
+  url: 'https://cloudsek.com'
+  tags: ['product']
