@@ -51,3 +51,7 @@ tiles:
   name: 'VOLON'
   url: 'https://volon.io/'
   tage: ['product', 'services']
+-
+  name: 'AuthSafe'
+  url: 'https://authsafe.ai/'
+  tage: ['product', 'services']
