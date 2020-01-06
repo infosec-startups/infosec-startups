@@ -11,3 +11,7 @@ tiles:
   name: 'Isecurion'
   url: 'https://isecurion.com'
   tags: ['services']
+-
+  name: 'Payatu'
+  url: 'https://payatu.com'
+  tags: ['services']
