@@ -15,3 +15,27 @@ tiles:
   name: 'Payatu'
   url: 'https://payatu.com'
   tags: ['services']
+-
+  name: 'SmokescreenTech'
+  url: 'smokescreen.io'
+  tags: ['product']
+-
+  name: 'DNIF'
+  url: 'https://www.dnif.it/'
+  tags: ['product']
+-
+  name: 'SBOXR'
+  url: 'https://sboxr.com'
+  tags: ['product']
+-
+  name: 'NotSoSecure'
+  url: 'https://www.notsosecure.com/'
+  tags: ['services']
+-
+  name: 'Appsecco'
+  url: 'https://appsecco.com/'
+  tags: ['services']
+-
+  name: 'Cyware'
+  url: 'https://cyware.com/'
+  tags: ['services']
