@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Update theme before build
-git submodule update --recursive --remote
+git submodule update --init --recursive
 
 # Build the project.
 hugo -t slate
