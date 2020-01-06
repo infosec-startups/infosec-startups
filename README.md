@@ -1,3 +1,3 @@
 # infosec-startups
 
-This repo contains list of all cybersecurity around the India. It has core hugo files for [infosec-startups.github.io](infosec-startups.github.io) website for sending PR to add more links.
+This repo contains list of all cybersecurity around the India. It has core hugo files for [infosec-startups.github.io](https://infosec-startups.github.io) website for sending PR to add more links.
