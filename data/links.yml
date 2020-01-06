@@ -21,23 +21,19 @@ tiles:
   tags: ['product']
 -
   name: 'DNIF'
-  url: 'https://www.dnif.it/'
-  tags: ['product']
--
-  name: 'SBOXR'
-  url: 'https://sboxr.com'
+  url: 'https://www.dnif.it'
   tags: ['product']
 -
   name: 'NotSoSecure'
-  url: 'https://www.notsosecure.com/'
+  url: 'https://www.notsosecure.com'
   tags: ['services']
 -
   name: 'Appsecco'
-  url: 'https://appsecco.com/'
+  url: 'https://appsecco.com'
   tags: ['services']
 -
   name: 'Cyware'
-  url: 'https://cyware.com/'
+  url: 'https://cyware.com'
   tags: ['services']
 -
   name: 'PureIDLabs'
@@ -45,13 +41,61 @@ tiles:
   tags: ['product']
 -
   name: 'WeSecureApp'
-  url: 'https://wesecureapp.com/'
+  url: 'https://wesecureapp.com'
   tags: ['services']
 -
   name: 'VOLON'
   url: 'https://volon.io/'
-  tage: ['product', 'services']
+  tags: ['product', 'services']
 -
   name: 'AuthSafe'
-  url: 'https://authsafe.ai/'
-  tage: ['product', 'services']
+  url: 'https://authsafe.ai'
+  tags: ['product', 'services']
+-
+  name: 'neoEYED'
+  url: 'https://www.neoeyed.com'
+  tags: ['product']
+-
+  name: 'RedHunt Labs'
+  url: 'https://redhuntlabs.com'
+  tags: ['product', 'services']
+-
+  name: 'Ironwasp Security'
+  url: 'https://sboxr.com'
+  tags: ['product']
+-
+  name: 'Vault Infosec'
+  url: 'https://vaultinfosec.com'
+  tags: ['services']
+-
+  name: 'Enciphers'
+  url: 'https://enciphers.com'
+  tags: ['services']
+-
+  name: 'HacknPentest'
+  url: 'https://hacknpentest.com'
+  tags: ['services']
+-
+  name: 'Lucideus'
+  url: 'https://www.lucideus.com'
+  tags: ['services']
+-
+  name: 'Lucidient'
+  url: 'http://www.lucid-ient.com'
+  tags: ['services']
+-
+  name: 'Euinac'
+  url: 'https://www.euinac.com'
+  tags: ['services']
+-
+  name: 'CodeSnag'
+  url: 'https://www.codesnag.com'
+  tags: ['services']
+-
+  name: 'PyramidCyber'
+  url: 'https://pyramidcyber.com'
+  tags: ['services']
+-
+  name: 'AppSecure'
+  url: 'https://appsecure.security'
+  tags: ['services']
