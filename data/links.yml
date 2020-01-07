@@ -99,3 +99,7 @@ tiles:
   name: 'AppSecure'
   url: 'https://appsecure.security'
   tags: ['services']
+-
+  name: 'AmynaSec'
+  url: 'https://www.amynasec.io'
+  tags: ['services']
